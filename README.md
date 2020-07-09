@@ -1,5 +1,5 @@
 ### Hello there, welcome to my Git profile 👋
-- 😄 I'm Thao (Cony) - A girl who is trying to do things that make herself proud of
+- 👩‍💻 I'm Thao (Cony) - A girl who is trying to do things that make herself proud of
 - 🔭 I’m currently working on C# and Vanilla JS for a CRM + Sales Enablement product named [Membrain](https://www.membrain.com/)
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ttpthao/), [Website](https://phuongthaotran.wordpress.com/)
 
