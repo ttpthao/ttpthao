@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Git profile 👋
+
+🔭 I’m currently working on C# and Vanilla JS for a CRM + Sales Enablement product named Membrain
 
 <!--
 **ttpthao/ttpthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
