@@ -1,6 +1,7 @@
-### Welcome to my Git profile 👋
-
-🔭 I’m currently working on C# and Vanilla JS for a CRM + Sales Enablement product named Membrain
+### Hello there, welcome to my Git profile 👋
+- 😄 I'm Thao (Cony) - A girl who is trying to do things that make herself proud of
+- 🔭 I’m currently working on C# and Vanilla JS for a CRM + Sales Enablement product named [Membrain](https://www.membrain.com/)
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ttpthao/), [Website](https://phuongthaotran.wordpress.com/)
 
 <!--
 **ttpthao/ttpthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
