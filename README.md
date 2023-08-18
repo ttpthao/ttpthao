@@ -1,6 +1,6 @@
 ### Hello there, welcome to my Git profile 👋
 - 👩‍💻 I'm Thao (Cony) - A girl who is trying to do things that make herself proud of
-- 🔭 I’m currently working on C# and Vanilla JS for a CRM + Sales Enablement product named [Membrain](https://www.membrain.com/)
+- 🔭 I’m currently working as Senior Consultant at [Netcompany Vietnam](https://www.netcompany.com/)
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ttpthao/), [Website](https://ttpthao.github.io/), [Blog](https://phuongthaotran.wordpress.com/)
 
 <!--
